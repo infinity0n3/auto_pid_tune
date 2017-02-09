@@ -13,7 +13,7 @@
             "title": "Auto PID Tune"
         }
     }, 
-    "plugin_uri": "", 
+    "plugin_uri": "https://github.com/infinity0n3/auto_pid_tune", 
     "version": "1.0", 
     "plugin_slug": "auto_pid_tune", 
     "filetypes": []

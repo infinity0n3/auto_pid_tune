@@ -1,0 +1,20 @@
+{
+    "description": "Automatic heater PID tuning.", 
+    "hooks": [], 
+    "required_bundles": [], 
+    "icon": "", 
+    "author_uri": "", 
+    "name": "Auto PID Tune", 
+    "author": "FABteam", 
+    "menu": {
+        "/auto_pid_tune": {
+            "url": "plugin/auto_pid_tune", 
+            "icon": "fa-thermometer-three-quarters", 
+            "title": "Auto PID Tune"
+        }
+    }, 
+    "plugin_uri": "", 
+    "version": "1.0", 
+    "plugin_slug": "auto_pid_tune", 
+    "filetypes": []
+}

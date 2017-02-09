@@ -14,7 +14,7 @@
         }
     }, 
     "plugin_uri": "https://github.com/infinity0n3/auto_pid_tune", 
-    "version": "1.0", 
+    "version": "0.10.1", 
     "plugin_slug": "auto_pid_tune", 
     "filetypes": []
 }
